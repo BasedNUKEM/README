@@ -14,7 +14,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
 ```
 
-<img src="https://media.giphy.com/media/l0HlJDaeqN6eCxsFW/giphy.gif" width="400" style="border-radius:15px; border: 3px solid #0052FF;" alt="Base Chad Aura"/>
+<img src="https://media1.tenor.com/m/Zp_a3F-uPjYAAAAd/duke-nukem-grovy.gif" width="400" style="border-radius:15px; border: 3px solid #0052FF;" alt="Base Chad Aura"/>
 
 ### 🟦 *"IT'S TIME TO DEPLOY ON BASE AND CHEW BUBBLEGUM... AND I'M ALL OUT OF GUM!"* 🟦
 
@@ -53,6 +53,7 @@ class BasedNUKEM extends BaseChain {
 ![Base](https://img.shields.io/badge/BASE_L2-CHAD_MODE-0052FF?style=for-the-badge&logo=base&logoColor=white)
 ![Solidity](https://img.shields.io/badge/SOLIDITY-SMART_CONTRACTS-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-BASED_AF-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-QUANTUM_POWERED-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/PYTHON-AI_AGENTS-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-FRONTEND_CHAD-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
@@ -62,13 +63,13 @@ class BasedNUKEM extends BaseChain {
 
 <div align="center">
 
-### 🟦🤖 D0XEDDEV & D0XEDDEV-HUB
+### 🟦🤖 D0XEDDEV & D0XEDDEV-HUB (AGENT HUB)
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  STATUS: [🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦] 1000% BASED AF           ║
-║  TECH: Solidity | HTML                                  ║
-║  MISSION: The first social layer for AI agents on Base  ║
-║  CHAD SAYS: "Code. Culture. Unstoppable."               ║
+║  TECH: Solidity (41%) | TypeScript (40%) | JS & Python    ║
+║  MISSION: Code. Culture. The First Base AI Agent Hub.   ║
+║  CHAD SAYS: "Charming all, censoring none. 🦞💙"         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -76,19 +77,29 @@ class BasedNUKEM extends BaseChain {
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  STATUS: [🦞🦞🦞🦞🦞🦞🦞🦞🦞🦞] CHAD ACTIVATED           ║
-║  TECH: JavaScript & Python (Agent-Enhanced)             ║
+║  TECH: JavaScript (97%) & Python (Agent-Enhanced)       ║
 ║  MISSION: Building AI Agents that kick ass on-chain     ║
 ║  CHAD SAYS: "Hail to the AI king, baby!"                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-### 🎮🔥 BASEDD00M
+### 🎮🔥 BASEDD00M & SW
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  STATUS: [💀💀💀💀💀💀💀💀💀💀] MAXIMUM CARNAGE          ║
-║  TECH: TypeScript                                       ║
-║  MISSION: Based version of D00M                         ║
+║  STATUS: [💀💀💀💀💀💀💀���💀💀] MAXIMUM CARNAGE          ║
+║  TECH: TypeScript (97%) | HTML                          ║
+║  MISSION: Based version of D00M & Smart Contract Utils  ║
 ║  CHAD SAYS: "Your face, your ass... what's the diff?"   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### 🤖⚙️ COMM BOTS (ATOMICCOMMSBOT & SACKMAS)
+```
+╔══════════════════════════════════════════════════════════╗
+║  STATUS: [⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡] COMMS SECURED            ║
+║  TECH: Pure Python (100%)                               ║
+║  MISSION: Decimating bad comms and bringing the Holi    ║
+║  CHAD SAYS: "Groovy comms only!"                        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
